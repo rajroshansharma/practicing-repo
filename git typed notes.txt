@@ -1,1 +1,3 @@
 First git notes.
+This is the second line of this file.
+For real knowledge prefer seeing notes.
